@@ -1,10 +1,7 @@
 ## Neural Hive — The Kaggle Challenge  
-### *Official Repository for the PESU ECC AI/ML Club Competition*
 
 This repository contains all datasets, preprocessing notebooks, and reference materials used for the **Neural Hive Technical Recruitment Kaggle Challenge**.  
 Participants were tasked with building a predictive model for agricultural crop production based on environmental and agricultural parameters.
-
----
 
 ## 📁 Repository Structure
 
@@ -33,7 +30,6 @@ Participants were tasked with building a predictive model for agricultural crop 
 
 ```
 
----
 
 ## 🎯 Challenge Overview
 
@@ -48,10 +44,8 @@ The dataset was intentionally designed to reflect **real-world agricultural vari
 
 This allowed participants to work with conditions that emulate true predictive-modeling complexity.
 
----
 
 ## 📌 What Participants Were Expected To Do
-
 To build a strong solution, participants were encouraged to:
 
 ### 🔧 **1. Engineer meaningful features**  
@@ -72,8 +66,6 @@ To build a strong solution, participants were encouraged to:
 ### 📈 **4. Optimize for leaderboard performance**  
 The top models successfully captured the interplay between **climate**, **cultivation practices**, and **yield outputs**, demonstrating strong ML intuition and technical depth.
 
----
-
 ## 🏆 Notebooks Included
 
 ### **`NeuralHive25_Kaggle_DataPrep.ipynb`**
@@ -82,17 +74,8 @@ A complete preprocessing workflow — cleaning, encoding, transformations, and e
 ### **`BestScoring-Submission.ipynb`**
 A high-performing reference notebook demonstrating an optimized solution approach.
 
----
-
-## 👥 About Neural Hive  
-**Neural Hive** is the official **AI/ML Club of PES University EC Campus**, dedicated to research, learning, and innovation in machine learning and applied AI.  
-This challenge was part of the **Technical Recruitment Process (2025)**.
-
----
-
 ## 📬 Contact  
 For questions or collaboration, reach out to the Neural Hive team via our official channels.
 
----
 
 **© 2025 Neural Hive — PESU ECC AI/ML Club**
